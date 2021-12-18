@@ -1,7 +1,11 @@
 # Assignment-14-Decision-Tree
 
 1) Import Liabraries
+
+
         a) EDA
+        
+        
         b) Data Preprocessing/label encoding
         
         
